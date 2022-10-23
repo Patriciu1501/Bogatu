@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bogatu", "Bogatu.csproj", "{75F932F2-9C39-498B-BD4A-3319D3758B35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F932F2-9C39-498B-BD4A-3319D3758B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F932F2-9C39-498B-BD4A-3319D3758B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F932F2-9C39-498B-BD4A-3319D3758B35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F932F2-9C39-498B-BD4A-3319D3758B35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {613F27B6-9FA4-4BDE-BBDD-B4ADA5CB55F9}
+	EndGlobalSection
+EndGlobal
